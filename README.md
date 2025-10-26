@@ -27,14 +27,6 @@ This project is a **static front-end clone** of the Amazon homepage. It was buil
 
 - **HTML5:** Semantic structure of the webpage.  
 - **CSS3:** Styling, including layout (Flexbox/Grid), responsiveness, and visual elements.  
-- *(Optional)* **JavaScript:** For interactivity such as image carousels or menu toggles.
 
 ---
 
-## 📂 How to Run
-
-This is a static website — no setup or server required.
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
